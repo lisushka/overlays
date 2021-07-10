@@ -2,6 +2,6 @@
 
 ## Presentations
 
-- PyCon AU 2021, 2021-09-10 (upcoming)
+- **PyCon AU 2021**, 2021-09-10 (upcoming)
 
 ## References
