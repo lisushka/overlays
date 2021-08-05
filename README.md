@@ -6,4 +6,16 @@
 
 ## References
 
+### Lawsuits
+
+#### Jodhan v Canada
+
+#### Mesnage v Coles
+* [Blind woman launches claim of unlawful discrimination against Coles over website](https://www.abc.net.au/news/2014-11-05/blind-woman-launches-court-action-against-coles-over-its-website/5869874?nw=0), **Liv Casben**, *ABC Online*, 2014-11-06
+* [Joint statement by Gisele Mesnage and Coles](http://www.medianet.com.au/releases/release-details/?id=821518)
+
+#### Robles v. Domino's Pizza LLC
+
+
+
 [Back to main talks repo](https://github.com/lisushka/talks)
