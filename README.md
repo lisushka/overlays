@@ -6,7 +6,7 @@
 
 ## References
 
-### Lawsuits
+### Lawsuits around the world
 
 #### Jodhan v Canada
 
@@ -16,6 +16,14 @@
 
 #### Robles v. Domino's Pizza LLC
 
+### Common access issues for screen reader users
 
+### Accessibility overlay companies' claims in their own words
+
+### How overlays work (or don't) in practice
+
+### Lawsuits against companies that use overlays
+
+### Background reading
 
 [Back to main talks repo](https://github.com/lisushka/talks)
