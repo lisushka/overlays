@@ -18,6 +18,8 @@
 
 ### Common access issues for screen reader users
 
+### Using machine learning to describe/caption images
+
 ### Accessibility overlay companies' claims in their own words
 
 ### How overlays work (or don't) in practice
