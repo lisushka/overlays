@@ -8,7 +8,7 @@
 
 ### New Machine Runbook
 
-* **[NVDA]**(https://www.nvaccess.org/download/), the free and open-source screen reader for Windows ([GitHub page](https://github.com/nvaccess/nvda))
+* [**NVDA**](https://www.nvaccess.org/download/), the free and open-source screen reader for Windows ([GitHub page](https://github.com/nvaccess/nvda))
 
 ### Lawsuits around the world
 
