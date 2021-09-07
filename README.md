@@ -6,6 +6,10 @@
 
 ## References
 
+### New Machine Runbook
+
+* **[NVDA]**(https://www.nvaccess.org/download/), the free and open-source screen reader for Windows ([GitHub page](https://github.com/nvaccess/nvda))
+
 ### Lawsuits around the world
 
 #### Jodhan v Canada
@@ -26,6 +30,8 @@
 * [Lower court ruling granting summary judgement to Mr. Robles (PDF)](https://www.adatitleiii.com/wp-content/uploads/sites/121/2021/06/Dominos-MSJ-Order.pdf)
     * **NOTE:** This ruling was handed down after the talk was written for PyCon AU 2021.
 
+##### News articles
+
 ### Common access issues for screen reader users
 
 ### Using machine learning to describe/caption images
@@ -33,6 +39,8 @@
 ### Accessibility overlay companies' claims in their own words
 
 ### How overlays work (or don't) in practice
+
+
 
 ### Lawsuits against companies that use overlays
 
