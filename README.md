@@ -9,6 +9,7 @@
 ### New Machine Runbook
 
 * [**NVDA**](https://www.nvaccess.org/download/), the free and open-source screen reader for Windows ([GitHub page](https://github.com/nvaccess/nvda))
+* [**AccessiByeBye**](https://www.accessibyebye.org/), a Google Chrome extension for blocking accessibility overlays
 
 ### Lawsuits around the world
 
