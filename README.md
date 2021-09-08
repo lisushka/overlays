@@ -47,6 +47,7 @@
 * [Avoid AccessiBe & other companies claiming quick & easy AI accessibility (video)](https://www.youtube.com/watch?v=R12Z1Sp-u4U)
 * [Do Automated Solutions like #AccessiBe Make the Web More Accessible? (includes a video of problems with AccessiBe)](https://catchthesewords.com/do-automated-solutions-like-accessibe-make-the-web-more-accessible/)
 * [Accessibility Overlays - What are they & why are they so bad? (video, includes demonstrations of problems with AccessiBe)](https://www.youtube.com/watch?v=huyuy1bJ7sw)
+* [Accessibility Overlays: What You See You Already Have](https://www.youtube.com/watch?v=nGQ_n6iey_w)
 * [Accessibility Widgets Are Bad For Web Accessibility (video, demonstrates problems with UserWay)](https://www.youtube.com/watch?v=cKalA4fVaUg)
 
 ### Lawsuits against companies that use overlays
