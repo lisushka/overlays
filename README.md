@@ -40,9 +40,19 @@
 
 ### How overlays work (or don't) in practice
 
-
+* [#accessiBe Will Get You Sued](https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html)
+* [Overlays are not the solution to your accessibility problem](https://sheribyrnehaber.com/overlays-are-not-the-solution/)
+* [Overlays Don't Work](https://overlaysdontwork.com/)
+* [Avoid AccessiBe & other companies claiming quick & easy AI accessibility (video)](https://www.youtube.com/watch?v=R12Z1Sp-u4U)
+* [Do Automated Solutions like #AccessiBe Make the Web More Accessible? (includes a video of problems with AccessiBe)](https://catchthesewords.com/do-automated-solutions-like-accessibe-make-the-web-more-accessible/)
+* [Accessibility Overlays - What are they & why are they so bad? (video, includes demonstrations of problems with AccessiBe](https://www.youtube.com/watch?v=huyuy1bJ7sw)
+* [Accessibility Widgets Are Bad For Web Accessibility (video, demonstrates problems with UserWay)](https://www.youtube.com/watch?v=cKalA4fVaUg)
 
 ### Lawsuits against companies that use overlays
+
+* [Is there a silver bullet for ADA website accessibility? Sorry, but the answer is no.](https://accessdefense.com/?p=5378)
+* [More lawsuits filed against companies using accessibility plugin/overlays](https://sheribyrnehaber.com/lawsuits-against-companies-accessibility-plugin-overlays/)
+* [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
 
 ### Background reading
 
