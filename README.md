@@ -56,4 +56,6 @@
 
 ### Background reading
 
+### Images
+
 [Back to main talks repo](https://github.com/lisushka/talks)
