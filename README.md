@@ -41,7 +41,7 @@
 
 ### Accessibility overlay companies' claims in their own words
 
-**NOTE:** These sites are used as demonstrations for the overlay products produced by the companies in question.  They will be inaccessible to most assistive technology users.
+**NOTE:** These sites are used as demonstrations for the overlay products produced by the companies in question.  They will be inaccessible to most adaptive technology users.
 
 * [AccessiBe Homepage](https://accessibe.com)
 * [AudioEye Homepage](https://www.audioeye.com/)
