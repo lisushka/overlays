@@ -41,6 +41,12 @@
 
 ### Accessibility overlay companies' claims in their own words
 
+**NOTE:** These sites are used as demonstrations for the overlay products produced by the companies in question.  As a result, they come with an accessibility warning for assistive technology users.
+
+* [AccessiBe Homepage](https://accessibe.com)
+* [AudioEye Homepage](https://www.audioeye.com/)
+* [UserWay Homepage](https://userway.org/widget/)
+
 ### How overlays work (or don't) in practice
 
 * [#accessiBe Will Get You Sued](https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html)
