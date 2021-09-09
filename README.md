@@ -1,5 +1,7 @@
 # Accessibility Overlays: A Cautionary Tale
 
+**NOTE:** The links in this repository may contain material that does not meet the Code of Conduct for the conference(s) at which it was presented, including but not limited to swearing.  Click at your own risk.
+
 ## Presentations
 
 - **PyCon AU 2021**, 2021-09-10 (upcoming)
