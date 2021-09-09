@@ -1,6 +1,6 @@
 # Accessibility Overlays: A Cautionary Tale
 
-**NOTE:** The links in this repository may contain material that does not meet the Code of Conduct for the conference(s) at which it was presented, including but not limited to swearing.  Click at your own risk.
+**NOTE:** The links in this repository may contain material that does not meet the Code of Conduct for the conference(s) at which the talk was presented, including but not limited to swearing.  Click at your own risk.
 
 ## Presentations
 
