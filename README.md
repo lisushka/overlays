@@ -37,6 +37,12 @@
 
 ### Common access issues for screen reader users
 
+* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+*
+*
+*
+*
+
 ### Using machine learning to describe/caption images
 
 ### Accessibility overlay companies' claims in their own words
@@ -68,6 +74,9 @@
 
 ### Background reading
 
-### Images
+## Images
+
+* [**Purveyors of Snake Oil !**](http://bit.ly/overlays21-0), Cpt. Roger Fenton (Public Domain)
+* [**A FIND! antique glass bottles**](http://bit.ly/overlays21-1), Nan Fry (CC BY 2.0)
 
 [Back to main talks repo](https://github.com/lisushka/talks)
