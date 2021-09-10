@@ -50,10 +50,8 @@
 
 ### Common access issues for screen reader users
 
-*
-*
-*
-*
+* [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML), *MDN Web Docs*
+* [Everything you need to know to write effective alt text](https://support.microsoft.com/en-us/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2),  *Microsoft Support*
 
 ### Accessibility overlay companies' claims in their own words
 
