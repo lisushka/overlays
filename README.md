@@ -79,7 +79,7 @@
 * [List of tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)
 * [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 
-My view on accessibility basics: [This Talk Has Been Disabled](https://github.com/lisushka/tthbd)
+My view on software accessibility: [This Talk Has Been Disabled](https://github.com/lisushka/tthbd)
 
 ## Images
 
