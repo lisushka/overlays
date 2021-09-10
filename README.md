@@ -37,7 +37,7 @@
 
 ### Common access issues for screen reader users
 
-* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
 *
 *
 *
@@ -73,6 +73,13 @@
 * [More lawsuits filed against companies using accessibility plugin/overlays](https://sheribyrnehaber.com/lawsuits-against-companies-accessibility-plugin-overlays/), **Sheri Byrne-Haber**, 2020-10-12
 
 ### Background reading
+
+* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* [A11y Project Accessibility Checklist](https://a11yproject.com/checklist/)
+* [List of tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)
+* [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
+
+My view on accessibility basics: [This Talk Has Been Disabled](https://github.com/lisushka/tthbd)
 
 ## Images
 
