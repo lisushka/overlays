@@ -49,20 +49,22 @@
 
 ### How overlays work (or don't) in practice
 
-* [#accessiBe Will Get You Sued](https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html)
-* [Overlays are not the solution to your accessibility problem](https://sheribyrnehaber.com/overlays-are-not-the-solution/)
-* [Overlays Don't Work](https://overlaysdontwork.com/)
-* [Avoid AccessiBe & other companies claiming quick & easy AI accessibility (video)](https://www.youtube.com/watch?v=R12Z1Sp-u4U)
-* [Do Automated Solutions like #AccessiBe Make the Web More Accessible? (includes a video of problems with AccessiBe)](https://catchthesewords.com/do-automated-solutions-like-accessibe-make-the-web-more-accessible/)
-* [Accessibility Overlays - What are they & why are they so bad? (video, includes demonstrations of problems with AccessiBe)](https://www.youtube.com/watch?v=huyuy1bJ7sw)
-* [Accessibility Overlays: What You See You Already Have (video, demonstrates problems with EqualWeb and Make-Sense)](https://www.youtube.com/watch?v=nGQ_n6iey_w)
-* [Accessibility Widgets Are Bad For Web Accessibility (video, demonstrates problems with UserWay)](https://www.youtube.com/watch?v=cKalA4fVaUg)
+* [#accessiBe Will Get You Sued](https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html), **Adrian Roselli**, 2020-06-29
+* [Overlays are not the solution to your accessibility problem](https://sheribyrnehaber.com/overlays-are-not-the-solution/), **Sheri Byrne-Haber**, 2020-01-14
+* [Overlays Don't Work (intentionally broken website](https://overlaysdontwork.com/), **Karl Groves**
+* [Avoid AccessiBe & other companies claiming quick & easy AI accessibility (video)](https://www.youtube.com/watch?v=R12Z1Sp-u4U), **Haben Girma**, 2021-05-06
+* [Do Automated Solutions like #AccessiBe Make the Web More Accessible? (includes a video of problems with AccessiBe)](https://catchthesewords.com/do-automated-solutions-like-accessibe-make-the-web-more-accessible/), **Holly Scott-Gardner**, 2021-02-25
+* [Accessibility Overlays - What are they & why are they so bad? (video, includes demonstrations of problems with AccessiBe)](https://www.youtube.com/watch?v=huyuy1bJ7sw), **Web Accessibility Education**, 2021-03-31
+* [Accessibility Overlays: What You See You Already Have (video, demonstrates problems with EqualWeb and Make-Sense)](https://www.youtube.com/watch?v=nGQ_n6iey_w), **Tenon.io/Karl Groves**, 2020-01-28
+* [Accessibility Widgets Are Bad For Web Accessibility (video, demonstrates problems with UserWay)](https://www.youtube.com/watch?v=cKalA4fVaUg), **Intelliwolf/Mike Haydon**, 2020-05-18
 
 ### Lawsuits against companies that use overlays
 
-* [Is there a silver bullet for ADA website accessibility? Sorry, but the answer is no.](https://accessdefense.com/?p=5378)
-* [More lawsuits filed against companies using accessibility plugin/overlays](https://sheribyrnehaber.com/lawsuits-against-companies-accessibility-plugin-overlays/)
-* [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017)
+* [Is there a silver bullet for ADA website accessibility? Sorry, but the answer is no.](https://accessdefense.com/?p=5378), **Richard M. Hunt**, 2020-03-31
+* [Murphy v Eyebobs LLC - Complaint](https://www.adatitleiii.com/wp-content/uploads/sites/121/2021/01/Murphy-v.-Eyebobs.pdf)
+* [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017), **Karl Groves**
+* [LightHouse for the Blind and Visually Impaired v ADP TotalSource - Plaintiff's Case Information](https://dralegal.org/case/lighthouse-for-the-blind-and-visually-impaired-v-adp-totalsource/)
+* [More lawsuits filed against companies using accessibility plugin/overlays](https://sheribyrnehaber.com/lawsuits-against-companies-accessibility-plugin-overlays/), **Sheri Byrne-Haber**, 2020-10-12
 
 ### Background reading
 
