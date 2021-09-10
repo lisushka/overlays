@@ -17,6 +17,16 @@
 
 #### Jodhan v Canada
 
+##### Court documents
+
+* [Federal Court decision requiring the Canadian government to make their websites accessible to people with disabilities](https://ca.vlex.com/vid/jodhan-v-can-g-680663097)
+* [Federal Court of Appeal decision confirming the judgement](https://ca.vlex.com/vid/jodhan-v-can-g-679762593)
+
+##### News articles
+
+* [Blind woman wins case against federal government](https://www.cbc.ca/news/canada/blind-woman-wins-case-against-federal-government-1.956042), *CBC*, 2010-11-29
+* [Jodhan Decision Advances Access to Web Sites for Persons with Vision Impairment](http://ccdonline.ca/en/blog/jodhan), *Council of Canadians with Disabilities*
+
 #### Mesnage v Coles
 * [Blind woman launches claim of unlawful discrimination against Coles over website](https://www.abc.net.au/news/2014-11-05/blind-woman-launches-court-action-against-coles-over-its-website/5869874?nw=0), **Liv Casben**, *ABC Online*, 2014-11-06
 * [Joint statement by Gisele Mesnage and Coles](http://www.medianet.com.au/releases/release-details/?id=821518)
@@ -35,8 +45,10 @@
 
 ##### News articles
 
-### Common access issues for screen reader users
+* [Supreme Court hands victory to blind man who sued Domino’s over site accessibility](https://www.cnbc.com/2019/10/07/dominos-supreme-court.html), **Tucker Higgins**, *CNBC*, 2019-10-07
+* [Domino Pizza’s Website Violated the Americans With Disabilities Act (ADA)](https://blog.ericgoldman.org/archives/2021/06/domino-pizzas-website-violated-the-americans-with-disabilities-act-ada-robes-v-dominos.htm), **Eric Goldman**, *Technology and Marketing Law Blog*, 2021-06-27
 
+### Common access issues for screen reader users
 
 *
 *
@@ -44,6 +56,8 @@
 *
 
 ### Using machine learning to describe/caption images
+
+*
 
 ### Accessibility overlay companies' claims in their own words
 
