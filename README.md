@@ -74,7 +74,7 @@
 
 ### Lawsuits against companies that use overlays
 
-* UsableNet reports on accessibility lawsuits (PDF, requires email address): [2019](https://info.usablenet.com/2019-ada-web-accessibility-lawsuit-recap-report) [2020](https://info.usablenet.com/2020-report-on-digital-accessibility-lawsuits) [2021 Mid-Year](https://info.usablenet.com/2021-midyear-digital-accessibility-lawsuit-report-download-page)
+* UsableNet reports on accessibility lawsuits (PDF, requires email address): [2019](https://info.usablenet.com/2019-ada-web-accessibility-lawsuit-recap-report), [2020](https://info.usablenet.com/2020-report-on-digital-accessibility-lawsuits), [2021 Mid-Year](https://info.usablenet.com/2021-midyear-digital-accessibility-lawsuit-report-download-page)
 * [Is there a silver bullet for ADA website accessibility? Sorry, but the answer is no.](https://accessdefense.com/?p=5378), **Richard M. Hunt**, 2020-03-31
 * [Murphy v Eyebobs LLC - Complaint](https://www.adatitleiii.com/wp-content/uploads/sites/121/2021/01/Murphy-v.-Eyebobs.pdf)
 * [Sole reliance on accessiBe will not be sufficient in ensuring full and equal access to a website](https://www.scribd.com/document/490740167/Exhibit-A-for-21-cv-00017), **Karl Groves**
