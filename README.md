@@ -4,7 +4,7 @@
 
 ## Presentations
 
-- **PyCon AU 2021**, 2021-09-10 (upcoming)
+- [**PyCon AU 2021**](https://youtube.com/watch?v=RsMyMRpq9bQ), 2021-09-10 (open captions)
 
 ## References
 
