@@ -66,6 +66,7 @@
 * [#accessiBe Will Get You Sued](https://adrianroselli.com/2020/06/accessibe-will-get-you-sued.html), **Adrian Roselli**, 2020-06-29
 * [Overlays are not the solution to your accessibility problem](https://sheribyrnehaber.com/overlays-are-not-the-solution/), **Sheri Byrne-Haber**, 2020-01-14
 * [Overlays Don't Work (intentionally broken to demonstrate problems with overlays)](https://overlaysdontwork.com/), **Karl Groves**
+* [Overlay Fact Sheet](https://overlayfactsheet.com/) ([GitHub](https://github.com/karlgroves/overlayfactsheet))
 * [Avoid AccessiBe & other companies claiming quick & easy AI accessibility (video)](https://www.youtube.com/watch?v=R12Z1Sp-u4U), **Haben Girma**, 2021-05-06
 * [Do Automated Solutions like #AccessiBe Make the Web More Accessible? (includes a video of problems with AccessiBe)](https://catchthesewords.com/do-automated-solutions-like-accessibe-make-the-web-more-accessible/), **Holly Scott-Gardner**, 2021-02-25
 * [Accessibility Overlays - What are they & why are they so bad? (video, includes demonstrations of problems with AccessiBe)](https://www.youtube.com/watch?v=huyuy1bJ7sw), **Web Accessibility Education**, 2021-03-31
